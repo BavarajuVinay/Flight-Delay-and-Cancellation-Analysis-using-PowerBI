@@ -54,5 +54,29 @@ An Area chart visualizing the cancellation rates of different airlines, helping 
 ### Average Cancellation Rate by Origin City:
 A heatmap representing the geographical distribution of cancellation rates by origin city, highlighting regions with higher cancellation densities.
 
+
 ### Flight-Operations-Analysis
 ![GitHub logo](Flight_Operations_Analysis.jpeg)
+
+### Flight Operations Analysis Dashboard
+
+This dashboard provides a comprehensive overview of key metrics related to flight operations, enabling stakeholders to monitor performance, identify trends, and make data-driven decisions. The visualizations focus on flight delays, punctuality, distance flown, and cancellation trends.
+
+#### Year and Quarter Filter:
+
+A slicer allowing users to filter data by specific years and quarters for a detailed temporal analysis. This enables dynamic exploration of performance trends over time.
+#### Delay of Airline by Schedule Time and Departure Time:
+
+A table displaying departure delay data for each airline across different years. This allows for analysis of historical trends in flight delays and identification of airlines with persistent delay issues. The filter allows users to focus on specific periods for deeper analysis.
+#### Punctuality Rate of Each Airline:
+
+A Waterfall chart visualizing the punctuality rate of each airline, highlighting those with consistently high or low on-time performance. This information is crucial for benchmarking and setting improvement targets. The filter can be used to compare punctuality rates across different quarters or years.
+#### Average of Distance by Airline:
+
+A Funnel chart showing the average distance flown by each airline. This provides insights into the operational scale and scope of each airline's network. The filter allows for analysis of distance flown trends over time.
+#### Count of Cancelled by Month:
+
+A Stacked Area chart illustrating the monthly count of flight cancellations. This helps identify seasonal or cyclical trends in cancellations and allows for proactive planning and resource allocation. The filter can be used to analyze cancellation trends for specific quarters or years.
+#### Busiest Airport by Airline:
+
+A world map visualizing the busiest airports served by different airlines. This provides a geographical perspective on airline operations and helps identify key hubs and routes. The filter can be used to analyze airport traffic patterns for specific periods.
